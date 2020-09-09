@@ -2,10 +2,10 @@
 
 <p align="center">
 <br/>
-<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
+<a href="https://www.linkedin.com/in/tung-luong-b65b57169/">
   <img alt="Tung's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
-<a href="https://www.facebook.com/erwin.lejeune">
+<a href="https://www.facebook.com/tung.luong19">
   <img alt="Tung's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
 <a href="https://www.instagram.com/black.pearl199">
